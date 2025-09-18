@@ -1,0 +1,8 @@
+pandas
+openpyxl
+pywhatkit
+xlwings
+pyodbc
+pywin32
+selenium
+webdriver-manager

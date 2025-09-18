@@ -1,0 +1,5 @@
+.env
+pdfs/
+User_Data/
+__pycache__/
+chrome-data/
